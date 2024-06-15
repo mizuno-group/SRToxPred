@@ -13,6 +13,6 @@ Please contact tadahaya[at]gmail.com before publishing your paper using the cont
 
 ## Contact
 If you have any questions or comments, please feel free to create an issue on github here, or email us:  
-- takuho2002@outlook.jp
+- takuho2002[at]outlook.jp
 - tadahaya[at]gmail.com
     - lead contact  
